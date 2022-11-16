@@ -1,3 +1,1 @@
-local Keys = {
-  "RISE!"
-}
+print("pill")
